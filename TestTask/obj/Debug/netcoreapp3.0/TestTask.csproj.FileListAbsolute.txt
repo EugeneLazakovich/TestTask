@@ -1,0 +1,11 @@
+C:\Users\Виталик\source\repos\TestTask\TestTask\bin\Debug\netcoreapp3.0\TestTask.exe
+C:\Users\Виталик\source\repos\TestTask\TestTask\bin\Debug\netcoreapp3.0\TestTask.deps.json
+C:\Users\Виталик\source\repos\TestTask\TestTask\bin\Debug\netcoreapp3.0\TestTask.runtimeconfig.json
+C:\Users\Виталик\source\repos\TestTask\TestTask\bin\Debug\netcoreapp3.0\TestTask.runtimeconfig.dev.json
+C:\Users\Виталик\source\repos\TestTask\TestTask\bin\Debug\netcoreapp3.0\TestTask.dll
+C:\Users\Виталик\source\repos\TestTask\TestTask\bin\Debug\netcoreapp3.0\TestTask.pdb
+C:\Users\Виталик\source\repos\TestTask\TestTask\obj\Debug\netcoreapp3.0\TestTask.csprojAssemblyReference.cache
+C:\Users\Виталик\source\repos\TestTask\TestTask\obj\Debug\netcoreapp3.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\Виталик\source\repos\TestTask\TestTask\obj\Debug\netcoreapp3.0\TestTask.AssemblyInfo.cs
+C:\Users\Виталик\source\repos\TestTask\TestTask\obj\Debug\netcoreapp3.0\TestTask.dll
+C:\Users\Виталик\source\repos\TestTask\TestTask\obj\Debug\netcoreapp3.0\TestTask.pdb
